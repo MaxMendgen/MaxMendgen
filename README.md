@@ -1,4 +1,11 @@
-## Hi there 👋
+Max Mendgen
+---
+
+Hi!
+
+uhhh
+
+README.md is WIP
 
 <!--
 **MaxMendgen/MaxMendgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
