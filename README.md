@@ -3,7 +3,7 @@ Max Mendgen
 
 Hello, 
 
-I like to fiddle around with Unity and Desmos :D
+I like to fiddle around with Unity and Desmos
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMendgen&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
